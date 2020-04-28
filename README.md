@@ -1,4 +1,4 @@
-# todoey_flutter
+# Do Today todo app
 
 A new Flutter application.
 
